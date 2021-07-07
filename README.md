@@ -1,3 +1,7 @@
+index.HTML
+<DOCTYPE HTML>
+<HTML>
+
 
 # HTML Introduction - Lab
 
@@ -66,3 +70,5 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+
+</HTML>
